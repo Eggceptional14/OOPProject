@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Space_Invader"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\..\usr\local\lib\cmake\SFML\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/pitchakorn/Desktop/Project/Space Invader/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/pitchakorn/Desktop/Project/Space\ Invader/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/pitchakorn/Desktop/Project/Space\ Invader/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/pitchakorn/Desktop/Project/Space\ Invader/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/pitchakorn/Desktop/Project/Space\ Invader/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/pitchakorn/Desktop/Project/Space Invader/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/pitchakorn/Desktop/Project/Space\ Invader/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/pitchakorn/Desktop/Project/Space\ Invader/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/pitchakorn/Desktop/Project/Space\ Invader/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/pitchakorn/Desktop/Project/Space\ Invader/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/pitchakorn/Desktop/Project/Space Invader/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/pitchakorn/Desktop/Project/Space\ Invader/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/pitchakorn/Desktop/Project/Space\ Invader/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/pitchakorn/Desktop/Project/Space\ Invader/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/pitchakorn/Desktop/Project/Space\ Invader/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Space_Invader">
+				<Option output="/Users/pitchakorn/Desktop/Project/Space Invader/cmake-build-debug/Space_Invader" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/pitchakorn/Desktop/Project/Space Invader/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/pitchakorn/Desktop/Project/Space Invader/SFML_INCLUDE_DIR"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/pitchakorn/Desktop/Project/Space\ Invader/cmake-build-debug/Makefile&quot;  VERBOSE=1 Space_Invader"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/pitchakorn/Desktop/Project/Space\ Invader/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/pitchakorn/Desktop/Project/Space\ Invader/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/pitchakorn/Desktop/Project/Space\ Invader/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Space_Invader/fast">
+				<Option output="/Users/pitchakorn/Desktop/Project/Space Invader/cmake-build-debug/Space_Invader" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/pitchakorn/Desktop/Project/Space Invader/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/pitchakorn/Desktop/Project/Space Invader/SFML_INCLUDE_DIR"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/pitchakorn/Desktop/Project/Space\ Invader/cmake-build-debug/Makefile&quot;  VERBOSE=1 Space_Invader/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/pitchakorn/Desktop/Project/Space\ Invader/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/pitchakorn/Desktop/Project/Space\ Invader/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/pitchakorn/Desktop/Project/Space\ Invader/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Game/AlienManager.cpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Game/AlienManager.hpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Game/Collidable.cpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Game/Collidable.hpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Game/DispInform.hpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Game/Entity/Alien.cpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Game/Entity/Alien.hpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Game/Entity/Barrier.cpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Game/Entity/Barrier.hpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Game/Entity/Explosion.cpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Game/Entity/Explosion.hpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Game/Entity/Player.cpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Game/Entity/Player.hpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Game/Entity/Projectile.cpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Game/Entity/Projectile.hpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Game/Entity/UFO.cpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Game/Entity/UFO.hpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Game/Map.cpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Game/Map.hpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Game/Renderer/Animation.cpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Game/Renderer/Animation.hpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Game/Renderer/LRenderer.cpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Game/Renderer/LRenderer.hpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Game/State/GameOver.cpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Game/State/GameOver.hpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Game/State/MainMenu.cpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Game/State/MainMenu.hpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Game/State/Playing.cpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Game/State/Playing.hpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Main/MGame.cpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Main/MGame.hpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Main/main.cpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Utility/Extra/Random.hpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Utility/Extra/Score.cpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Utility/Extra/Score.hpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Utility/GUI/Button.cpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Utility/GUI/Button.hpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Utility/GUI/Widget.cpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Utility/GUI/Widget.hpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Utility/GameState/GameState.cpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Utility/GameState/GameState.hpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Utility/Resources/ResHolder.cpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Utility/Resources/ResHolder.hpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/Source/Utility/Resources/ResManager.hpp">
+			<Option target="Space_Invader"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/../../../../../usr/local/lib/cmake/SFML/SFMLConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/../../../../../usr/local/lib/cmake/SFML/SFMLConfigDependencies.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/../../../../../usr/local/lib/cmake/SFML/SFMLConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/../../../../../usr/local/lib/cmake/SFML/SFMLSharedTargets-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/pitchakorn/Desktop/Project/Space Invader/../../../../../usr/local/lib/cmake/SFML/SFMLSharedTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\SFML\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
